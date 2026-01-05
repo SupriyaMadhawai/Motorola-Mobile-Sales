@@ -1,0 +1,3 @@
+The Mobile Sales Dashboard is an interactive Power BI project designed to analyze mobile phone sales performance across multiple dimensions such as city, brand, mobile model, payment method, and time. The dashboard provides key KPIs including Total Sales, Quantity Sold, Transactions, and Average Price, enabling quick and effective business insights.
+
+The project also includes Month-to-Date (MTD) analysis and Same Period Last Year (SPLY) comparison to track current performance and evaluate year-over-year trends. Built using Power BI, DAX, Power Query, and a custom calendar table, this project demonstrates strong skills in data modeling, time-intelligence calculations, and dashboard storytelling.
